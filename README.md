@@ -43,6 +43,16 @@ Key features:
 ## Dashboard Link
 Interactive dashboard available here:
 https://public.tableau.com/app/profile/amneet.kaur2844
+## Structure
+sales-customer-performance-analytics
+│
+├── data
+├── dashboard
+│   └── sales_dashboard.twbx
+├── images
+│   └── dashboard_preview.png
+├── insights.md
+└── README.md
 
 ## Author
 Amneet Kaur
