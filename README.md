@@ -39,19 +39,28 @@ Key features:
 - A small group of customers contributes a significant portion of total profit.
 - Weekly trend analysis helps identify performance fluctuations during the year.
 
- ### These insights help sales teams identify profitable product segments, track customer contribution to revenue, and monitor sales performance trends to support strategic planning.
+These insights help sales teams identify profitable product segments, track customer contribution to revenue, and monitor sales performance trends to support strategic planning.
+
 ## Dashboard Link
+
 Interactive dashboard available here:
 https://public.tableau.com/app/profile/amneet.kaur2844
+
 ## Structure
 sales-customer-performance-analytics
 │
 ├── data
+
 ├── dashboard
+
 │   └── sales_dashboard.twbx
+
 ├── images
+
 │   └── dashboard_preview.png
+
 ├── insights.md
+
 └── README.md
 
 ## Author
